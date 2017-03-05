@@ -13,7 +13,7 @@
 
 ### html
 ```html
-  <h1>古风</h1>
+<h1>古风</h1>
 <!--导航链接-->
   <nav>
     <ul>
@@ -149,3 +149,14 @@
 
 # Notes
 + [RUNOOB.COM(HTML5)](http://www.runoob.com/html/html5-intro.html)
++ 页脚代码
+
+```html
+  <footer>
+    <p style="font-size:10px;">版权所有&copy;xian
+      <script type="text/javascript">
+        document.write(new Date().getFullYear());
+      </script>
+    </p>
+  </footer>
+```
