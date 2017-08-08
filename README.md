@@ -4,8 +4,8 @@
 
 # Requirements
 
-+ 理解语义化，合理地使用HTML标签来构建页面
-+ 尽可能多地尝试更多的HTML标签
++ 理解语义化，合理地使用HTML标签来构建页面.
++ 尽可能多地尝试更多的HTML标签.
 
 # Task
 + [task1 previev](https://codepen.io/zhongshanxian/pen/gmbxbp)
